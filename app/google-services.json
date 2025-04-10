@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "217603611129",
+    "firebase_url": "https://real-time-database-lab-session-default-rtdb.firebaseio.com",
+    "project_id": "real-time-database-lab-session",
+    "storage_bucket": "real-time-database-lab-session.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217603611129:android:c64b830dda87c645960528",
+        "android_client_info": {
+          "package_name": "com.example.myeventsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDX41iedYWx3I_LNw_KB1Enkl5lht55Mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217603611129:android:023c8a2991484f5d960528",
+        "android_client_info": {
+          "package_name": "com.example.realtimedatabaselab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDX41iedYWx3I_LNw_KB1Enkl5lht55Mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
